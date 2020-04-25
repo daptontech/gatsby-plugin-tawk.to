@@ -9,7 +9,7 @@ exports.onRenderBody = function (_ref, pluginOptions) {
   var tawkId = pluginOptions.tawkId;
   var source = "https://embed.tawk.to/" + tawkId + "/default";
   return setPostBodyComponents([/*#__PURE__*/_react["default"].createElement("script", {
-    key: "gatsby-plugin-tawk",
+    key: "gatsby-plugin-tawk.to",
     src: source
   })]);
 };

@@ -6,7 +6,7 @@ exports.onRenderBody = ({ setPostBodyComponents }, pluginOptions) => {
   
   return setPostBodyComponents([
     <script
-      key="gatsby-plugin-tawk"
+      key="gatsby-plugin-tawk.to"
       src={source}
     />
   ]);

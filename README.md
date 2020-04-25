@@ -1,12 +1,16 @@
-# gatsby-plugin-tawk.to
+# Gatsby Plugin for tawk.to
+
+#### NPM Package: gatsby-plugin-tawk.to
+
+![NPM Publish](https://github.com/AsathalMannan/gatsby-plugin-tawk.to/workflows/Publish/badge.svg)
 
 First of all, I thank [JodyPSmith](https://github.com/JodyPSmith) for the plugin.
-This is Forked work from [Repo](https://github.com/JodyPSmith/gatsby-plugin-tawk).
+This is Forked work from his [Repo](https://github.com/JodyPSmith/gatsby-plugin-tawk).
 > I just updated dependencies and fixed issues in building.
 
-A simple plugin that adds the tawk live chat window [https://dashboard.tawk.to/#/admin] to every page of your Gatsby site.
+A simple plugin that adds the tawk.to live chat window to every page of your Gatsby site.
 
-sign up for a free account at [https://www.tawk.to/]
+Sign up for a free account at [tawk.to](https://www.tawk.to/)
 
 
 
@@ -14,14 +18,14 @@ sign up for a free account at [https://www.tawk.to/]
 
 1. Install using either npm or yarn:
 
-```
-yarn add gatsby-plugin-tawk-updated
+```shell
+yarn add gatsby-plugin-tawk.to
 ```
 
 or
 
-```
-npm install gatsby-plugin-tawk-updated
+```shell
+npm install gatsby-plugin-tawk.to
 ```
 
 2. Add to ```gatsby-config.js```
@@ -30,7 +34,7 @@ npm install gatsby-plugin-tawk-updated
 module.exports = {
   plugins: [
     {
-      resolve: `gatsby-plugin-tawk`,
+      resolve: `gatsby-plugin-tawk.to`,
       options: {
         tawkId: "YOUR_TAWK_ID",
         // get this from the tawk script widget

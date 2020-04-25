@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-tawk.to",
   "description": "Gatsby plugin that adds tawk.to JS file to site",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Ajmal Hussain <ajmalhussainhy@gmail.com>",
   "repository": {
     "type": "git",
@@ -19,7 +19,8 @@
   ],
   "scripts": {
     "build": "babel src --out-dir . --ignore __tests__",
-    "watch": "babel -w src --out-dir . --ignore __tests__"
+    "watch": "babel -w src --out-dir . --ignore __tests__",
+    "test": "echo \"No test specified\""
   },
   "license": "MIT",
   "main": "index.js",
