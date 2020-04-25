@@ -1,15 +1,15 @@
 {
   "name": "gatsby-plugin-tawk-updated",
-  "description": "Gatsby plugin that adds tawk JS file to site",
-  "version": "1.0.2",
+  "description": "Gatsby plugin that adds tawk.to JS file to site",
+  "version": "1.0.3",
   "author": "Ajmal Hussain <ajmalhussainhy@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JodyPSmith/gatsby-plugin-tawk.git"
+    "url": "git+https://github.com/AsathalMannan/gatsby-plugin-tawk.git"
   },
-  "homepage": "https://github.com/JodyPSmith/gatsby-plugin-tawk.git",
+  "homepage": "https://github.com/AsathalMannan/gatsby-plugin-tawk.git",
   "bugs": {
-    "url": "https://github.com/JodyPSmith/gatsby-plugin-tawk/issues"
+    "url": "https://github.com/AsathalMannan/gatsby-plugin-tawk-updated/issues"
   },
   "keywords": [
     "gatsby",
