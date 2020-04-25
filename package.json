@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-tawk-updated",
+  "name": "gatsby-plugin-tawk.to",
   "description": "Gatsby plugin that adds tawk.to JS file to site",
   "version": "1.0.3",
   "author": "Ajmal Hussain <ajmalhussainhy@gmail.com>",
@@ -30,6 +30,6 @@
     "@babel/preset-env": "^7.9.5",
     "@babel/preset-react": "^7.9.4",
     "@babel/runtime": "^7.9.2",
-    "cross-env": "^5.1.4"
+    "cross-env": "^7.0.2"
   }
 }

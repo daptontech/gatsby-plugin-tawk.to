@@ -1,4 +1,4 @@
-# gatsby-plugin-tawk-updated
+# gatsby-plugin-tawk.to
 
 First of all, I thank [JodyPSmith](https://github.com/JodyPSmith) for the plugin.
 This is Forked work from [Repo](https://github.com/JodyPSmith/gatsby-plugin-tawk).
