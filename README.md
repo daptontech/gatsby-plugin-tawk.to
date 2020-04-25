@@ -1,5 +1,7 @@
 # gatsby-plugin-tawk
 
+This is Forked work from https://github.com/JodyPSmith/gatsby-plugin-tawk. I just updated dependencies and fixed issues in building.
+
 A simple plugin that adds the tawk live chat window [https://dashboard.tawk.to/#/admin] to every page of your Gatsby site.
 
 sign up for a free account at [https://www.tawk.to/]
